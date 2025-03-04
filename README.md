@@ -1,6 +1,4 @@
-# Nutrition-Label-Webpage
-Nutrition Label Webpage
+LEARN TYPOGRAPHY BY BUILDING A NUTRITION LABEL WEBPAGE. 
 
-HTML tags give a webpage it's structure. You can use HTML tags to add photos, buttons, and other element to your webpage. 
-
-In this course, you will learn the most common HTML tags by building your own cat photo app. 
+Typography is the act of styling your text to be easily readable and suits it purpose. 
+in this course, you will use typography to build a nutrition label webpage. You will learn how to style text, adjust line height, and position your text using CSS. 
